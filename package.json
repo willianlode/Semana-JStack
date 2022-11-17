@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Willian Lode <willianlode@hotmail.com>",
   "license": "MIT",
+   "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
     "typescript": "^4.8.4"
   }
